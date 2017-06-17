@@ -1,0 +1,13 @@
+application/Application.class
+application/handler/FileHandler.class
+application/handler/JsonHandler$1.class
+application/MainClass.class
+application/DataProcessor.class
+application/handler/JsonHandler.class
+application/handler/JsonHandler$2.class
+application/data/OutputData.class
+application/handler/HandlerFactory.class
+application/data/Listings.class
+application/data/Tuple.class
+application/data/Product.class
+application/handler/DataHandler.class
